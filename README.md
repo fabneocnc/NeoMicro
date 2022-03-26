@@ -147,3 +147,7 @@ Tested with both **1/64" and 1/32" end mills** there is very little deflection i
 | 14    | 2216 Bruhless motor           | Spindle motor              | 1        |
 | 15    | ESC 20A                       | 18V ESC for spindle        | 1        |
 | 16    | 6702 bearing                  | 15x21x4 bearing CAM        | 1        |
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
